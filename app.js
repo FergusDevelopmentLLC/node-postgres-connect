@@ -7,6 +7,7 @@ console.log(os.hostname());
 console.log(os.type());
 
 var hostname = os.hostname();
+
 if(hostname != "geodev")//node is being run on host, use the port forward
   port = 15432;
 

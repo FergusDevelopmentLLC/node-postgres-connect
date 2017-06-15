@@ -1,0 +1,22 @@
+{
+  "name": "node-postgres-connect",
+  "version": "1.0.0",
+  "description": "Connect to postgres db using pg",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pg": "^6.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FergusDevelopmentLLC/node-postgres-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FergusDevelopmentLLC/node-postgres-connect/issues"
+  },
+  "homepage": "https://github.com/FergusDevelopmentLLC/node-postgres-connect#readme"
+}

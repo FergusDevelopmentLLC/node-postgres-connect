@@ -16,6 +16,8 @@ if (hostname !== "geodev") { port = 15432; }
 
 var conString = "postgres://geodevdb:admin123@127.0.01:" + port + "/geodevdb";
 
+console.log('conString: ' + conString);
+
 var pg = require('pg');
 var client = new pg.Client(conString);
 

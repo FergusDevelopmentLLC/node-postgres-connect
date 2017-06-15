@@ -1,2 +1,5 @@
 # node-postgres-connect
-Connect to postgres db using pg
+
+Connect to postgres database using node-postgres (pg)
+
+https://github.com/brianc/node-postgres
